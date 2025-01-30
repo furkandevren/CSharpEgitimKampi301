@@ -182,7 +182,7 @@
             // 
             this.lblAvgCapacity.AutoSize = true;
             this.lblAvgCapacity.Font = new System.Drawing.Font("Calibri", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblAvgCapacity.Location = new System.Drawing.Point(48, 67);
+            this.lblAvgCapacity.Location = new System.Drawing.Point(103, 67);
             this.lblAvgCapacity.Name = "lblAvgCapacity";
             this.lblAvgCapacity.Size = new System.Drawing.Size(47, 37);
             this.lblAvgCapacity.TabIndex = 1;
